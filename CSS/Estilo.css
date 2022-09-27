@@ -1,0 +1,38 @@
+p{
+    color: black;
+     }
+ ul{
+     list-style: none;
+     display: flex;
+     justify-content: space-evenly;
+     color: black;
+ }
+ li{
+     margin: 50px auto;
+ }
+ 
+ .ima1{
+     float: left;
+
+ }
+ 
+ a:link{
+     color: palevioletred;
+     font-size: 22px;
+ }
+
+ a:visited{
+     color: fuchsia;
+     font-size: 22px;
+ }
+ .titulo{
+    font-family: Times New Roman;
+    font-size: 75px;
+}
+.descripcion{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 22px;
+}
+.principal{
+    background-color: rgb(247, 228, 239);
+}
